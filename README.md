@@ -1,11 +1,13 @@
 ### Examen Spring - API con MVC
 
 Este proyecto ha sido desarrollado como parte de un examen/práctica en **Spring Boot**, aplicando el patrón **MVC (Modelo-Vista-Controlador)** y consumiendo/implementando una **API REST**.
+
 <br>
 <p align="center">
   <img src="https://miro.medium.com/1*MmlUmaa0oRxkQXzrKghdMQ.gif" alt="Spring MVC GIF" width="400"/>
 </p>
 <br>
+
 ## 📌 Descripción
 El objetivo del proyecto es demostrar el uso de:
 - **Spring Boot** para la creación de aplicaciones Java modernas.
