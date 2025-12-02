@@ -27,4 +27,6 @@ El objetivo del proyecto es demostrar el uso de:
 - Respuestas en formato **JSON** para facilitar la integración con otras aplicaciones
 
 
-![Spring MVC GIF](https://miro.medium.com/1*MmlUmaa0oRxkQXzrKghdMQ.gif)
+<p align="center">
+  <img src="https://miro.medium.com/1*MmlUmaa0oRxkQXzrKghdMQ.gif" alt="Spring MVC GIF" width="400"/>
+</p>
